@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/node_modules/.pnpm/react-tweet@3.2.0_react-dom@18.2.0_react@18.2.0/node_modules/react-tweet/dist/twitter-theme/tweet-link.module.css"],"sourcesContent":[".root {\n  font-weight: inherit;\n  color: var(--tweet-color-blue-secondary);\n  text-decoration: none;\n  cursor: pointer;\n}\n.root:hover {\n  text-decoration-thickness: 1px;\n  text-decoration-line: underline;\n}\n"],"names":[],"mappings":"AAAA,CAAC,0BAAI,CAAC,CAAC;EACL,WAAW,EAAE,OAAO;EACpB,KAAK,EAAE,GAAG,CAAC,EAAE,AAAF,0BAA4B;EACvC,eAAe,EAAE,IAAI;EACrB,MAAM,EAAE,OAAO;AACjB,CAAC;AACD,CAAC,0BAAI,CAAC,KAAK,CAAC,CAAC;EACX,yBAAyB,EAAE,CAAC,EAAE;EAC9B,oBAAoB,EAAE,SAAS;AACjC,CAAC"}},
-    {"offset": {"line": 10, "column": 1}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

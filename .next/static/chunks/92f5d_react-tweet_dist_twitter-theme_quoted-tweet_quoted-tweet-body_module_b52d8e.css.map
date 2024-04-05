@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/node_modules/.pnpm/react-tweet@3.2.0_react-dom@18.2.0_react@18.2.0/node_modules/react-tweet/dist/twitter-theme/quoted-tweet/quoted-tweet-body.module.css"],"sourcesContent":[".root {\n  font-size: var(--tweet-quoted-body-font-size);\n  font-weight: var(--tweet-quoted-body-font-weight);\n  line-height: var(--tweet-quoted-body-line-height);\n  margin: var(--tweet-quoted-body-margin);\n  overflow-wrap: break-word;\n  white-space: pre-wrap;\n  padding: 0 0.75rem;\n}\n"],"names":[],"mappings":"AAAA,CAAC,iCAAI,CAAC,CAAC;EACL,SAAS,EAAE,GAAG,CAAC,EAAE,AAAF,2BAA6B;EAC5C,WAAW,EAAE,GAAG,CAAC,EAAE,AAAF,6BAA+B;EAChD,WAAW,EAAE,GAAG,CAAC,EAAE,AAAF,6BAA+B;EAChD,MAAM,EAAE,GAAG,CAAC,EAAE,AAAF,wBAA0B;EACtC,aAAa,EAAE,UAAU;EACzB,WAAW,EAAE,QAAQ;EACrB,OAAO,EAAE,CAAC,CAAC,IAAI,GAAG;AACpB,CAAC"}},
-    {"offset": {"line": 9, "column": 1}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

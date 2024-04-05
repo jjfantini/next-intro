@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/node_modules/.pnpm/react-tweet@3.2.0_react-dom@18.2.0_react@18.2.0/node_modules/react-tweet/dist/twitter-theme/icons/icons.module.css"],"sourcesContent":[".verified {\n  margin-left: 0.125rem;\n  max-width: 20px;\n  max-height: 20px;\n  height: 1.25em;\n  fill: currentColor;\n  user-select: none;\n  vertical-align: text-bottom;\n}\n"],"names":[],"mappings":"AAAA,CAAC,wBAAQ,CAAC,CAAC;EACT,WAAW,EAAE,KAAK,GAAG;EACrB,SAAS,EAAE,EAAE,EAAE;EACf,UAAU,EAAE,EAAE,EAAE;EAChB,MAAM,EAAE,IAAI,EAAE;EACd,IAAI,EAAE,YAAY;EAClB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,WAAW;AAC7B,CAAC"}},
-    {"offset": {"line": 9, "column": 1}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
