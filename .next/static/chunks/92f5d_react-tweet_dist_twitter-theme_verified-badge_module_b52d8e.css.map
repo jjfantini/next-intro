@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/node_modules/.pnpm/react-tweet@3.2.0_react-dom@18.2.0_react@18.2.0/node_modules/react-tweet/dist/twitter-theme/verified-badge.module.css"],"sourcesContent":[".verifiedOld {\n  color: var(--tweet-verified-old-color);\n}\n.verifiedBlue {\n  color: var(--tweet-verified-blue-color);\n}\n.verifiedGovernment {\n  /* color: var(--tweet-verified-government-color); */\n  color: rgb(130, 154, 171);\n}\n"],"names":[],"mappings":"AAAA,CAAC,qCAAW,CAAC,CAAC;EACZ,KAAK,EAAE,GAAG,CAAC,EAAE,AAAF,wBAA0B;AACvC,CAAC;AACD,CAAC,sCAAY,CAAC,CAAC;EACb,KAAK,EAAE,GAAG,CAAC,EAAE,AAAF,yBAA2B;AACxC,CAAC;AACD,CAAC,4CAAkB,CAAC,CAAC;EAEnB,KAAK,EAAE,GAAG,CAAC,GAAG,CAAC,CAAC,GAAG,CAAC,CAAC,GAAG;AAC1B,CAAC"}},
+    {"offset": {"line": 9, "column": 1}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

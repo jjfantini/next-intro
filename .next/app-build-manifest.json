@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/e5a74_next_dist_compiled_react_7e89cd._.js",
+      "static/chunks/e5a74_next_dist_compiled_react-dom_cjs_react-dom_development_ce9a55.js",
+      "static/chunks/e5a74_next_dist_compiled_react-dom_index_a58493.js",
+      "static/chunks/e5a74_next_dist_compiled_c6f6bd._.js",
+      "static/chunks/e5a74_next_dist_client_b78f7e._.js",
+      "static/chunks/e5a74_next_dist_676282._.js",
+      "static/chunks/fc315_@swc_helpers_512481._.js",
+      "static/chunks/app_layout_d9f7ea.js",
+      "static/chunks/[turbopack]_dev_client_hmr-client_ts_d29f5d._.js",
+      "static/chunks/app_layout_371761.js",
+      "static/chunks/92f5d_react-tweet_dist_twitter-theme_9f1c32._.css",
+      "static/chunks/node_modules__pnpm_354153._.js",
+      "static/chunks/app_page_a68060.js",
+      "static/chunks/app_page_f58503.js",
+      "static/chunks/e5a74_next_dist_compiled_react_7e89cd._.js",
+      "static/chunks/e5a74_next_dist_compiled_react-dom_cjs_react-dom_development_ce9a55.js",
+      "static/chunks/e5a74_next_dist_compiled_react-dom_79266e._.js",
+      "static/chunks/e5a74_next_dist_compiled_3dc318._.js",
+      "static/chunks/e5a74_next_dist_client_0b74d8._.js",
+      "static/chunks/e5a74_next_dist_05331f._.js",
+      "static/chunks/fc315_@swc_helpers_512481._.js",
+      "static/chunks/[turbopack]_dev_client_hmr-client_ts_bd7dcb._.js",
+      "static/chunks/e5a74_next_dist_esm_build_templates_app-page_8a3c88.js",
+      "static/chunks/e5a74_next_dist_esm_build_templates_app-page_f77ed4.js"
+    ]
+  }
+}

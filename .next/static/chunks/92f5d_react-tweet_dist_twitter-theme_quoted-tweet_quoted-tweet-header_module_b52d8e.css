@@ -1,0 +1,35 @@
+/* [project]/node_modules/.pnpm/react-tweet@3.2.0_react-dom@18.2.0_react@18.2.0/node_modules/react-tweet/dist/twitter-theme/quoted-tweet/quoted-tweet-header.module.css [app-client] (css) */
+.header__quoted-tweet-header__d68ea6a1 {
+  display: flex;
+  padding: 0.75rem 0.75rem 0 0.75rem;
+  line-height: var(--tweet-header-line-height);
+  font-size: var(--tweet-header-font-size);
+  white-space: nowrap;
+  overflow-wrap: break-word;
+  overflow: hidden;
+}
+.avatar__quoted-tweet-header__d68ea6a1 {
+  position: relative;
+  height: 20px;
+  width: 20px;
+}
+.avatarSquare__quoted-tweet-header__d68ea6a1 {
+  border-radius: 4px;
+}
+.author__quoted-tweet-header__d68ea6a1 {
+  display: flex;
+  margin: 0 0.5rem;
+}
+.authorText__quoted-tweet-header__d68ea6a1 {
+  font-weight: 700;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.username__quoted-tweet-header__d68ea6a1 {
+  color: var(--tweet-font-color-secondary);
+  text-decoration: none;
+  text-overflow: ellipsis;
+  margin-left: 0.125rem;
+}
+/*# sourceMappingURL=92f5d_react-tweet_dist_twitter-theme_quoted-tweet_quoted-tweet-header_module_b52d8e.css.map*/
